@@ -94,9 +94,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any inquiries or questions, please contact the project maintainer:
 
-- Name: [Your Name]
-- Email: [your.email@example.com]
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Name: [Saeed Rahimi]
+- Email: saeedrhimi2@gmail.com]
+- GitHub: [Your GitHub Profile](https://github.com/saeed-rhimi)
 
 ## Acknowledgments
 
@@ -104,7 +104,7 @@ Special thanks to the following individuals and resources for their contribution
 
 - The PyTorch team for their extensive documentation and resources.
 - The developers of the VGG19 model for providing the pretrained weights.
-- [Any other individuals or resources you would like to acknowledge]
+- Mike X. Cohen from the course 'A Deep Understanding of Deep Learning with PyTorch
 
 ## Useful Links
 
